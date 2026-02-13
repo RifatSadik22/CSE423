@@ -25,4 +25,3 @@ A 3D OpenGL-based endless racing game featuring:
 - P → Pause
 - ESC → Quit
 
-## How to Run
