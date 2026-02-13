@@ -1,27 +1,29 @@
-# 3D Urban Street Racing
+﻿# CSE423 - Computer Graphics Assignments
 
-A 3D OpenGL-based endless racing game featuring:
+This repository contains OpenGL-based assignments for CSE423.
 
-- Day/Night Cycle
-- AI Overtaking Cars
-- Drift Mode
-- Boost & Slow Zones
-- Jump Mechanics
-- Camera Modes (Third, First, Cinematic)
-- Health & Speed HUD
-- Cheat Mode
-- Rear View Camera
+## Assignments Included
 
-## Controls
+### Assignment 02
+Catch the Diamonds Game  
+- Diamond falling mechanic  
+- Catcher movement  
+- Cheat Mode  
+- Collision detection  
 
-- A/D → Change Lane
-- W/S → Accelerate / Brake
-- SPACE → Drift
-- V → Change Camera
-- N → Day/Night
-- B → Rear View
-- C → Cheat Mode
-- R → Restart
-- P → Pause
-- ESC → Quit
+### Assignment 03
+3D Bullet Frenzy  
+- First-person & third-person camera  
+- Shooting mechanics  
+- Enemy AI movement  
+- Cheat Mode with auto aim  
+- Score & life system  
+
+## Requirements
+
+PyOpenGL  
+PyOpenGL_accelerate  
+
+
+
 
